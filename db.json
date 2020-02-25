@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "changementfractionnement": {
+    "cotisationActuelle": "3452",
+    "cotisationFuture": "42645",
+    "montantCalcule": "e4662"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
